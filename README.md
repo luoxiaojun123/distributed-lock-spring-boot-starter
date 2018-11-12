@@ -7,7 +7,7 @@
         </dependency>
         
        <- zookeeper->
-配置 application.yml
+#配置 application.yml
  spring:
   zookeeper:
     zkServers: 127.0.0.1:2181
