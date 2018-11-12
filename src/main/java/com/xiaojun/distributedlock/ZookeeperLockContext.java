@@ -19,9 +19,8 @@ import org.apache.curator.framework.recipes.locks.InterProcessLock;
 
 /**
  * zookeeper上下文
- *
- * @author zengzh
- * @since 1.0.0
+ * @author xiaojun
+ * @date 2018/11/10 23:43
  */
 public class ZookeeperLockContext {
 
