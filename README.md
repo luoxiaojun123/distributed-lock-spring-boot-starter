@@ -6,7 +6,7 @@
             <version>1.0.0</version>
         </dependency>
         
-       <- zookeeper->
+zookeeper
 #配置 application.yml
  spring:
   zookeeper:
